@@ -34,5 +34,5 @@ app.use('/', formasdepagoRoutes);
 
 // Escuchar peticiones
 app.listen(3000, ()=> {
-    console.log("ESTOY ESCUCHANDO PRRO");
+    console.log("ESTOY ESCUCHANDO");
 })
